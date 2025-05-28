@@ -1,13 +1,13 @@
-## Hi there Me llamo Zito Maria Sol👋
+## Hi there I'm Maria Sol Zito👋
 
-Desarrolladora Full stack👩🏽‍💻
+Full Stack Developer 👩🏽‍💻
 
-✨ Soy desarrolladora cuento con más de 3 años de experiencia en proyectos individuales y en equipo. 
-🌱 Mi objetivo es seguir avanzando en mi carrera profesional y contribuir de manera significativa al mundo tecnológico. 
-💬 Busco constantemente nuevos conocimientos y desafíos tecnológicos que me permitan expandir mis habilidades.
+✨ I'm a developer with over 3 years of experience in individual and team projects.
+🌱 My goal is to continue advancing in my professional career and make a significant contribution to the technological world.
+💬 I'm constantly seeking new knowledge and technological challenges that allow me to expand my skills.
 
-🫱🏼‍🫲🏼Tengo experiencia trabajando con:
-🔸React  🔸Next
+🫱🏼‍🫲🏼I have knowledge working with:
+🔸React  🔸Next 🔸Angular 
 🔸Javascript 🔸Typescript
 🔸Html 🔸Css
 🔸Java 🔸Spring boot
